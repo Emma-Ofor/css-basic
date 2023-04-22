@@ -1,0 +1,148 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    color: #40514e;
+}
+h1{
+    text-align: center;
+    color: gold;
+    margin-bottom: 0;
+    font-size: 90px;
+    
+    font-family: 'Sacramento', cursive;
+
+       
+}
+.top-container{
+    position: relative;
+
+}
+.top-cloud{
+    background-color: bisque;
+   margin-bottom: 10px;
+ 
+}
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+h2{
+  
+    font-size: 2.5rem;
+    color: #40514e;
+    font-weight: normal;
+}
+h3{
+   
+
+    color: #40514e;
+    
+}
+p{
+    line-height: 2;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: 30px;
+
+
+}
+
+
+.skill-image1{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+.skill-image2{
+    width: 40%;
+    float: right;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn{
+    background-color: aqua;
+    
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-radius: 30px;
+    color: mistyrose;
+}
+.btn:hover{
+    color: black;
+    text-decoration: none;
+}
+.bottom-container{
+    background-color: blueviolet;
+    padding: 50px 0 20px;
+
+}
+.copyright{
+    color: dodgerblue;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+a{
+    color: darkred;
+    margin: 10px 20px;
+}
+.footer-link{
+    color: blanchedalmond;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+.footer-link:hover{
+    color: rgba(35, 44, 49, 0.288);
+}
+.man-u{
+   margin-right: 800px;
+}
+.header-link:hover{
+    color: white;
+    text-decoration: none;
+     
+
+}
+.lower-container{
+    color: white;
+    margin-top: 50px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.header-link{
+    text-decoration: none;
+    margin-top: 100px;
+}
+
+hr{
+    width: 50px;
+   
+    border-style:dotted ;
+    color: white;
+    border-width: 5px;
+    border-top: 50px;
+
+
+
+
+}
+   
+
+
+
+   
+
+/* httpsemma-ofor.github.iohtml-only */
+
+ 
